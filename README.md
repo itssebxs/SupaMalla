@@ -8,9 +8,9 @@ SupaMalla es una herramienta diseñada para facilitar la gestión y la planifica
 
 ## ✨ Características Principales
 
-**Planificación visual:** Visualización interactiva de mallas curriculares para una mejor comprensión de la ruta de estudio[cite: 48].
-**Monitoreo estudiantil:** Sistema de seguimiento de progreso para mantener al día los objetivos académicos[cite: 49].
-**Gestión de información:** Estructuración de base de datos diseñada específicamente para la gestión académica[cite: 50].
+**Planificación visual:** Visualización interactiva de mallas curriculares para una mejor comprensión de la ruta de estudio.
+**Monitoreo estudiantil:** Sistema de seguimiento de progreso para mantener al día los objetivos académicos.
+**Gestión de información:** Estructuración de base de datos diseñada específicamente para la gestión académica.
 
 ## 🛠️ Tecnologías Utilizadas
 
