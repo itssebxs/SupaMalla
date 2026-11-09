@@ -1,7 +1,5 @@
 # SupaMalla - Gestión Académica
 
-> ⚠️ **Aviso Importante:** Este proyecto se encuentra actualmente **descontinuado**. Aunque SupaMalla fue concebida y desarrollada como una aplicación móvil, el código fuente alojado en este repositorio de GitHub corresponde **únicamente a la parte web** del proyecto.
-
 ## 📖 Sobre el Proyecto
 
 SupaMalla es una herramienta diseñada para facilitar la gestión y la planificación académica. El proyecto nació con el propósito de ofrecer a los estudiantes una forma más intuitiva de organizar su trayectoria estudiantil.
@@ -16,3 +14,9 @@ SupaMalla es una herramienta diseñada para facilitar la gestión y la planifica
 
 **Frontend:** Flutter
 **Backend / Base de Datos:** Supabase
+
+---
+
+## 📌 Estado de este repositorio
+
+Este repositorio conserva la **versión web** de SupaMalla, generada a partir de la aplicación móvil original (Flutter); el código fuente de la app móvil no forma parte de este repositorio. El proyecto se encuentra **en pausa**: la aplicación ya no está operativa porque su base de datos original dejó de estar disponible, y esta copia se mantiene como registro del trabajo realizado y de la solución construida.
